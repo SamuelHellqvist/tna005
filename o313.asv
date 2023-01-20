@@ -1,0 +1,14 @@
+%3
+
+%4
+x = input('Ange ett värde på x ');
+y = sqrt(x);
+disp(' Roten ur av x värdet är ');
+disp(y);
+%%
+
+%7
+
+
+%8
+
