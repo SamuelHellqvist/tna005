@@ -1,0 +1,8 @@
+function I = stapelarea(fun, a, b, n)
+dx = (b-a)/n;
+I = 0;
+x = a + d/2;
+for i = 1:n
+    I = i + fun(x)*dx;
+    x = x +dx;
+end
